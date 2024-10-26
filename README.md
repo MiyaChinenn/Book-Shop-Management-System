@@ -1,2 +1,2 @@
-# Book Shop Management System
+# Library Management System
 The Very First Attempt on OOP Java Project
